@@ -136,7 +136,7 @@ Follow the steps below to set up and run the project locally.
 ### Step 1: Clone the Repository
 Clone this repository to your local machine:
 
-git clone https://github.com/yourusername/customer-churn-survival-dashboard.git
+git clone https://github.com/____/customer-churn-survival-dashboard.git
 cd customer-churn-survival-dashboard
 
 yaml
